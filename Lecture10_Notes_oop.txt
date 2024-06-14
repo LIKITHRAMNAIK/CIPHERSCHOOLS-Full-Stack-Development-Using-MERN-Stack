@@ -1,0 +1,13 @@
+objects : it is a unique entity that conects some properties and methods.
+
+1 . Object Literal
+2 . object Constructor
+3 . object.create{} method
+
+classes : classes are blueprints of an object.
+
+
+Abstaction: It means displaying only the essential information and hiding the details.
+
+Encapsulation: The process of wapping properties and functions within a single unit is called encapsulation.
+
